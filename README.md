@@ -1,0 +1,2 @@
+# EduProject
+For learning purpose
